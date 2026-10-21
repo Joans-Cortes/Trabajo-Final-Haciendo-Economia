@@ -17,11 +17,11 @@ Proyecto final – Grupo B2 (Estrategias)
 
 ## Pregunta de investigación
 
-¿Cómo se relacionan el ambiente, la interacción con el personal y la experiencia de consumo que ofrecen las cafeterías de especialidad de Chapinero Alto con la frecuencia de visita y el gasto por visita de sus clientes, según la motivación con que las visitan?
+¿Cómo se relacionan el ambiente, la interacción con el personal y la experiencia de consumo que ofrecen las cafeterías de especialidad de Chapinero con la frecuencia de visita y el gasto por visita de sus clientes, según la motivación con que las visitan?
 
 ## Descripción
 
-Este proyecto estudia las estrategias de las cafeterías de especialidad de Chapinero Alto (Bogotá), agrupadas en tres factores: ambiente, interacción con el personal y experiencia de consumo. Busca relacionarlas con el comportamiento de los clientes, medido por la frecuencia de visita y el gasto por visita.
+Este proyecto estudia las estrategias de las cafeterías de especialidad de Chapinero (Bogotá), agrupadas en tres factores: ambiente, interacción con el personal y experiencia de consumo. Busca relacionarlas con el comportamiento de los clientes, medido por la frecuencia de visita y el gasto por visita.
 
 El enfoque es descriptivo y cuantitativo.
 
