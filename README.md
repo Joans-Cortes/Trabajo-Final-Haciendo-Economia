@@ -45,7 +45,7 @@ Scripts/
 | `Output/Figuras/` | Gráficas y mapas. |
 | `Scripts/` | Código para limpiar los datos y producir los resultados. |
 
-Las carpetas vacías contienen un archivo `.gitkeep` para que Git las conserve.
+Las carpetas vacías contienen un archivo no importante, para poder hacer su creación
 
 ## Documentación
 
