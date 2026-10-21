@@ -1,5 +1,5 @@
 # Trabajo-Final-Haciendo-Economia
-# Estrategias de las cafeterías de especialidad en Chapinero Alto, Bogotá
+# Estrategias de las cafeterías de especialidad en Chapinero, Bogotá
 
 Proyecto final – Grupo B2 (Estrategias)
 
