@@ -122,6 +122,7 @@ El análisis es descriptivo, con asociaciones exploratorias, porque hay unos 20 
 Orden de ejecución:
 1. `Scripts/Cafeteria.py`: genera el CSV, el shapefile y el mapa. El script guarda los archivos en la carpeta desde la que se ejecuta, así que hay que moverlos a `RawData/` y `Output/Figuras/`.
 2. Scripts de limpieza y análisis de la encuesta: pendientes.
+3. Archivo de las encuestas con variables y el piloto en `RawData/` Como: Respuestas de la encuesta
 
 ## Estado del proyecto
 
