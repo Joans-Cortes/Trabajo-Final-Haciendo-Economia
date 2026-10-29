@@ -2,7 +2,7 @@
 
 Proyecto final – Grupo B2 (Estrategias)
 
-**Curso:**
+**Curso:** Haciendo Economía
 **Universidad:** Universidad del Rosario
 **Profesor:** Paul Rodríguez Lesmes
 **Semestre:** 2026-2
@@ -33,6 +33,7 @@ RawData/
 Output/
     Datos_Limpios/
     Figuras/
+    Mapeo/
 Scripts/
 ```
 
@@ -41,7 +42,8 @@ Scripts/
 | `Documentacion/` | Documentos del proyecto (ver detalle abajo). |
 | `RawData/` | Datos originales sin modificar: `base_datos_cafes.csv`, el shapefile `cafes_chapinero` (con sus archivos `.shx`, `.dbf`, `.prj` y `.cpg`) y `Respuestas_de_la_encuesta.xlsx`. |
 | `Output/Datos_Limpios/` | Datos procesados, generados a partir de `RawData/` con los scripts. |
-| `Output/Figuras/` | Gráficas y mapas, incluido `mapa_chapinero.png`. |
+| `Output/Figuras/` | Gráficas de los datos. |
+| `Output/Mapeo/` | mapas, documentos de los mapas sacados del script `Cafeteria.py` , incluido `mapa_chapinero.png`. |
 | `Scripts/` | Código del proyecto. Hoy incluye `Cafeteria.py`. |
 
 Las carpetas vacías contienen un archivo `.gitkeep` para que Git las conserve.
