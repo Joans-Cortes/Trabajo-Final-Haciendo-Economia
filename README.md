@@ -130,11 +130,11 @@ Orden de ejecución:
 - [x] Revisión de literatura y marco teórico
 - [x] Inventario espacial de cafés (script, CSV, shapefile y mapa)
 - [x] Diseño de la encuesta, plan de análisis y piloto
-- [ ] Ficha de observación del ambiente
+- [x] Ficha de observación del ambiente
 - [ ] Trabajo de campo
 - [ ] Análisis de datos
 - [ ] Resultados finales
 
 ## Contacto
 
-**Correo de contacto:** joans.cortes@urosario.edu.co
+**Correo de contacto:** joans.cortes@urosario.edu.co ,  mariap.monroy@urosario.edu.co , angelicamari.diaz@urosario.edu.co , juane.plazas@urosario.edu.co
