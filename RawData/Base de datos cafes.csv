@@ -1,0 +1,305 @@
+﻿ID_CAFE,nombre,longitud,latitud,origen
+CHAP_001,Juan Valdez Café,-74.0630225,4.6396774,OpenStreetMap
+CHAP_002,La Cafeteria,-74.0628995,4.6402868,OpenStreetMap
+CHAP_003,Juan Valdez Café,-74.0475614,4.6761001,OpenStreetMap
+CHAP_004,Café OMA,-74.0488925,4.6824213,OpenStreetMap
+CHAP_005,Juan Valdez Café,-74.0525611,4.6668322,OpenStreetMap
+CHAP_006,Café OMA,-74.0538027,4.6678858,OpenStreetMap
+CHAP_007,Juan Valdez Café,-74.0557682,4.6570498,OpenStreetMap
+CHAP_008,Café OMA,-74.0578146,4.6570346,OpenStreetMap
+CHAP_009,Café OMA,-74.0667937,4.6309608,OpenStreetMap
+CHAP_010,Las Cafetales,-74.0591688,4.6717245,OpenStreetMap
+CHAP_011,Tostao’,-74.0601618,4.6467244,OpenStreetMap
+CHAP_012,Café OMA,-74.0575346,4.6453457,OpenStreetMap
+CHAP_013,El Deseo,-74.0465928,4.6784727,OpenStreetMap
+CHAP_014,Diletto,-74.0482048,4.6801863,OpenStreetMap
+CHAP_015,Juan Valdez Café,-74.0556673,4.6660569,OpenStreetMap
+CHAP_016,Café OMA,-74.0579561,4.6636139,OpenStreetMap
+CHAP_017,Café OMA,-74.063023,4.6276756,OpenStreetMap
+CHAP_018,Árbol del Pan,-74.0562021,4.6488241,OpenStreetMap
+CHAP_019,Juan Valdez Origenes,-74.0559027,4.6522542,OpenStreetMap
+CHAP_020,Varietale,-74.0663633,4.6287698,OpenStreetMap
+CHAP_021,Rustico cafe bar,-74.0654932,4.631659,OpenStreetMap
+CHAP_022,GATO AGO-GO,-74.0641267,4.6321984,OpenStreetMap
+CHAP_023,Bocado de Reina,-74.0669611,4.6298759,OpenStreetMap
+CHAP_024,Café Cultor,-74.0564877,4.6515686,OpenStreetMap
+CHAP_025,Local 2,-74.0664806,4.6325004,OpenStreetMap
+CHAP_026,MINOS,-74.0646372,4.6316591,OpenStreetMap
+CHAP_027,Batidos de la Sabana,-74.0645317,4.6316207,OpenStreetMap
+CHAP_028,kaaba,-74.0650822,4.6392016,OpenStreetMap
+CHAP_029,Coffe Break 52,-74.0649181,4.6391268,OpenStreetMap
+CHAP_030,"dizzy food, coffe & drinks",-74.0648754,4.6324358,OpenStreetMap
+CHAP_031,La empanada caldense,-74.0663605,4.6384796,OpenStreetMap
+CHAP_032,Salón De Onces Marly,-74.0659972,4.6355721,OpenStreetMap
+CHAP_033,Cafe Pop,-74.0627725,4.6403857,OpenStreetMap
+CHAP_034,Duocafe,-74.0607988,4.6493986,OpenStreetMap
+CHAP_035,Del Quindio Tienda Cafe,-74.0606357,4.6493414,OpenStreetMap
+CHAP_036,Cafe Arbol,-74.06106,4.6492993,OpenStreetMap
+CHAP_037,Starbucks,-74.0589342,4.6515047,OpenStreetMap
+CHAP_038,Juan Valdez Café,-74.0568485,4.686063,OpenStreetMap
+CHAP_039,Kafeto,-74.067001,4.6344681,OpenStreetMap
+CHAP_040,Tropicalisimo,-74.0670691,4.6345492,OpenStreetMap
+CHAP_041,Conect A-2,-74.0663521,4.6342428,OpenStreetMap
+CHAP_042,Cafetería Esquina Huilense,-74.0656296,4.63612,OpenStreetMap
+CHAP_043,Cafeteria La Mochila,-74.0653813,4.6360988,OpenStreetMap
+CHAP_044,Cafatería Sambitto,-74.0654627,4.6361175,OpenStreetMap
+CHAP_045,Buñuelos,-74.0655658,4.6361328,OpenStreetMap
+CHAP_046,Antojitos de la 51,-74.06585,4.6383378,OpenStreetMap
+CHAP_047,Cafeteria Pizzeria,-74.0660616,4.6383598,OpenStreetMap
+CHAP_048,Fruteria y cafeteria,-74.0670157,4.6294449,OpenStreetMap
+CHAP_049,Bralir,-74.0658013,4.637347,OpenStreetMap
+CHAP_050,BUS1 19,-74.0649713,4.6391535,OpenStreetMap
+CHAP_051,ANDREA,-74.0654716,4.6391681,OpenStreetMap
+CHAP_052,heladería de la 46,-74.0645494,4.6328352,OpenStreetMap
+CHAP_053,Jireh,-74.0663722,4.6330365,OpenStreetMap
+CHAP_054,GUS® fruterias,-74.0671163,4.6288266,OpenStreetMap
+CHAP_055,Rico Ricoto,-74.066134,4.6382579,OpenStreetMap
+CHAP_056,Fruity Cream,-74.0663532,4.6385255,OpenStreetMap
+CHAP_057,Fruteria Y Cafeteria,-74.0655624,4.6381022,OpenStreetMap
+CHAP_058,Felipa,-74.0650518,4.6379798,OpenStreetMap
+CHAP_059,Tostao’,-74.0653424,4.6330181,OpenStreetMap
+CHAP_060,Delikateses de la Carrera 13,-74.0671793,4.6283899,OpenStreetMap
+CHAP_061,Café Niebla,-74.0655139,4.6299011,OpenStreetMap
+CHAP_062,Juice Garden,-74.0648418,4.6302785,OpenStreetMap
+CHAP_063,Starbucks,-74.049256,4.6770223,OpenStreetMap
+CHAP_064,Cigarreria Jerico,-74.0660655,4.6372588,OpenStreetMap
+CHAP_065,Café OMA,-74.0639966,4.6478065,OpenStreetMap
+CHAP_066,Starbucks,-74.0405438,4.6806941,OpenStreetMap
+CHAP_067,deli,-74.0564735,4.6570358,OpenStreetMap
+CHAP_068,Juan Valdez Café,-74.0580173,4.6574886,OpenStreetMap
+CHAP_069,La Castana Empanadas,-74.0612832,4.6422611,OpenStreetMap
+CHAP_070,Tostao’,-74.0636118,4.6353086,OpenStreetMap
+CHAP_071,Cafeteria Ed. Baron,-74.0638158,4.6266951,OpenStreetMap
+CHAP_072,Social Coffee House,-74.0569451,4.6499666,OpenStreetMap
+CHAP_073,Salva Patria,-74.0607708,4.6404355,OpenStreetMap
+CHAP_074,Amor Perfecto,-74.0554381,4.6490139,OpenStreetMap
+CHAP_075,Casa Rosa,-74.061229,4.6433205,OpenStreetMap
+CHAP_076,Tostao’,-74.0630214,4.6453361,OpenStreetMap
+CHAP_077,Bourbon coffee Roasters,-74.0617672,4.6571425,OpenStreetMap
+CHAP_078,Azahar Café,-74.0501016,4.6780034,OpenStreetMap
+CHAP_079,El señor de las aromáticas,-74.0649545,4.6286158,OpenStreetMap
+CHAP_080,Crêpe del otro mundo,-74.061637,4.6467691,OpenStreetMap
+CHAP_081,La esquina del café express,-74.0605664,4.6626486,OpenStreetMap
+CHAP_082,Tostao',-74.0586859,4.6507678,OpenStreetMap
+CHAP_083,Afternoon Tea,-74.0432028,4.6806969,OpenStreetMap
+CHAP_084,Starbucks,-74.0454802,4.6780933,OpenStreetMap
+CHAP_085,El Chócolo,-74.0445652,4.6806762,OpenStreetMap
+CHAP_086,Cafeteria Andina,-74.045509,4.6788234,OpenStreetMap
+CHAP_087,El Cafeta,-74.0595723,4.655812,OpenStreetMap
+CHAP_088,Café Quindío,-74.0564008,4.6608713,OpenStreetMap
+CHAP_089,Tostao’,-74.055124,4.6559042,OpenStreetMap
+CHAP_090,Tactica,-74.0531845,4.6581249,OpenStreetMap
+CHAP_091,Cafeteria Y Golosinas,-74.0638961,4.651009,OpenStreetMap
+CHAP_092,Treffen,-74.0623255,4.6423547,OpenStreetMap
+CHAP_093,Café Danners,-74.0625305,4.6544511,OpenStreetMap
+CHAP_094,Lado Sur Cafe,-74.0625989,4.6541748,OpenStreetMap
+CHAP_095,Cigarreria los Pinos,-74.0635278,4.6375096,OpenStreetMap
+CHAP_096,Mazza,-74.0616728,4.6520322,OpenStreetMap
+CHAP_097,Time Cafe & Snacks,-74.0642013,4.6320741,OpenStreetMap
+CHAP_098,Tends Café,-74.0605976,4.6492674,OpenStreetMap
+CHAP_099,Merlot Cafe,-74.0624369,4.6503622,OpenStreetMap
+CHAP_100,Tosta'o,-74.0630742,4.6507618,OpenStreetMap
+CHAP_101,El Viejo Bandito,-74.0628817,4.6524838,OpenStreetMap
+CHAP_102,Tosta'o,-74.0604264,4.6522801,OpenStreetMap
+CHAP_103,Libre de Culpa,-74.0583576,4.6542581,OpenStreetMap
+CHAP_104,Fruty Lago,-74.0598722,4.6618757,OpenStreetMap
+CHAP_105,Devachan,-74.0590289,4.6527014,OpenStreetMap
+CHAP_106,Tostao’,-74.0590033,4.6527537,OpenStreetMap
+CHAP_107,Tostao',-74.0604398,4.6606601,OpenStreetMap
+CHAP_108,Sra Choclo & Sr Cafe,-74.0603042,4.6608435,OpenStreetMap
+CHAP_109,Presto,-74.060112,4.6611308,OpenStreetMap
+CHAP_110,Tostao’,-74.0578846,4.6647571,OpenStreetMap
+CHAP_111,Central Park Café,-74.0580989,4.6682251,OpenStreetMap
+CHAP_112,El Rocío,-74.0557176,4.6666844,OpenStreetMap
+CHAP_113,Almendras,-74.0536547,4.6611891,OpenStreetMap
+CHAP_114,Es tu Sitio,-74.0600463,4.6577801,OpenStreetMap
+CHAP_115,Starbucks,-74.0574371,4.6559644,OpenStreetMap
+CHAP_116,Cafeteria,-74.0575533,4.6620255,OpenStreetMap
+CHAP_117,Tartas Y Tortos Angelita,-74.0576372,4.6620792,OpenStreetMap
+CHAP_118,Express Capuchinos Cafeteria,-74.0585997,4.6626996,OpenStreetMap
+CHAP_119,Tostao’,-74.054959,4.671071,OpenStreetMap
+CHAP_120,Café Don Pedro,-74.0499754,4.6729866,OpenStreetMap
+CHAP_121,El Chócolo,-74.0550205,4.6696606,OpenStreetMap
+CHAP_122,Cigarrería y cafetería Consu,-74.0583088,4.6718004,OpenStreetMap
+CHAP_123,Tostao’,-74.0581842,4.663739,OpenStreetMap
+CHAP_124,Starbucks,-74.0523852,4.667286,OpenStreetMap
+CHAP_125,Cafeteria Valle,-74.0554563,4.6704128,OpenStreetMap
+CHAP_126,Juan Valdez Café,-74.0568863,4.6685087,OpenStreetMap
+CHAP_127,Juan Pablos Caffe,-74.0593041,4.6639811,OpenStreetMap
+CHAP_128,Cafeteria Sion,-74.0580834,4.6629351,OpenStreetMap
+CHAP_129,La Merienda Expres de la 64,-74.06307,4.6514051,OpenStreetMap
+CHAP_130,Panderos del Valle,-74.0630939,4.6512646,OpenStreetMap
+CHAP_131,Almojabanas el Antojo,-74.0630948,4.6512458,OpenStreetMap
+CHAP_132,Tostao',-74.0655948,4.6431788,OpenStreetMap
+CHAP_133,Nativos,-74.0654642,4.6438391,OpenStreetMap
+CHAP_134,Ricuras J.P,-74.0645642,4.6479783,OpenStreetMap
+CHAP_135,Bananas,-74.0641826,4.6479,OpenStreetMap
+CHAP_136,Dely 60,-74.0643084,4.6469883,OpenStreetMap
+CHAP_137,Fruty Express,-74.0642857,4.6504692,OpenStreetMap
+CHAP_138,Cafeteria Bar La 55,-74.0648029,4.642598,OpenStreetMap
+CHAP_139,Empanadas,-74.062623,4.6431892,OpenStreetMap
+CHAP_140,Lo Mejor de la 57,-74.0631244,4.643654,OpenStreetMap
+CHAP_141,La Estacion Café Chapinero,-74.0605368,4.6469847,OpenStreetMap
+CHAP_142,Fruteria Y Cafeteria De La 62,-74.063198,4.6485221,OpenStreetMap
+CHAP_143,La Papayita,-74.0625252,4.6460303,OpenStreetMap
+CHAP_144,La Fábrika,-74.0628546,4.646182,OpenStreetMap
+CHAP_145,Tipicas empanadas,-74.0632659,4.6463786,OpenStreetMap
+CHAP_146,Super Frutas,-74.0635875,4.6476481,OpenStreetMap
+CHAP_147,Super Empanadas,-74.0628061,4.6472575,OpenStreetMap
+CHAP_148,Cafe Sirápe,-74.0622692,4.6460404,OpenStreetMap
+CHAP_149,Chante,-74.0623505,4.6460836,OpenStreetMap
+CHAP_150,Pan de Nobles,-74.0624245,4.6461212,OpenStreetMap
+CHAP_151,Delicias de la 58,-74.0642982,4.6454671,OpenStreetMap
+CHAP_152,Café OMA,-74.0653233,4.6397575,OpenStreetMap
+CHAP_153,El Gustazo,-74.0646599,4.6432771,OpenStreetMap
+CHAP_154,Cigarrería y Cafetería,-74.0647122,4.6409493,OpenStreetMap
+CHAP_155,Punto 53,-74.0650499,4.6409775,OpenStreetMap
+CHAP_156,Power Up smart snaks,-74.0568279,4.6643747,OpenStreetMap
+CHAP_157,Frutos Coffee,-74.0618426,4.6522256,OpenStreetMap
+CHAP_158,City Pizza Cafe,-74.0626086,4.6506655,OpenStreetMap
+CHAP_159,Tostao',-74.0527642,4.6830832,OpenStreetMap
+CHAP_160,Mysteria,-74.0529304,4.6763984,OpenStreetMap
+CHAP_161,Café Devoción,-74.0552363,4.655758,OpenStreetMap
+CHAP_162,Frambuesa,-74.0560432,4.6656954,OpenStreetMap
+CHAP_163,Starbucks,-74.0553695,4.6515859,OpenStreetMap
+CHAP_164,Candy Shake,-74.0551241,4.6512323,OpenStreetMap
+CHAP_165,López & Gracia,-74.0567246,4.6488589,OpenStreetMap
+CHAP_166,Tostao’,-74.0420412,4.6812232,OpenStreetMap
+CHAP_167,Bimbi,-74.0538268,4.669393,OpenStreetMap
+CHAP_168,Juan Valdez Café,-74.0582967,4.650918,OpenStreetMap
+CHAP_169,Tostao’,-74.0581627,4.6514139,OpenStreetMap
+CHAP_170,La Tortata,-74.0590032,4.6500529,OpenStreetMap
+CHAP_171,San Jose de Isnos,-74.0602859,4.6518936,OpenStreetMap
+CHAP_172,Tostao',-74.0663723,4.6316031,OpenStreetMap
+CHAP_173,Cofre de Frutas,-74.0630911,4.6531313,OpenStreetMap
+CHAP_174,Delizziozo,-74.0648432,4.642202,OpenStreetMap
+CHAP_175,Tostao’,-74.0649724,4.6419871,OpenStreetMap
+CHAP_176,Cada Loco con su Tema,-74.064468,4.6351633,OpenStreetMap
+CHAP_177,Java Express,-74.0647472,4.6353783,OpenStreetMap
+CHAP_178,Libertario Coffee Roasters,-74.0549148,4.6529096,OpenStreetMap
+CHAP_179,Beale patisserie,-74.0606315,4.6564987,OpenStreetMap
+CHAP_180,Leonard´s 2,-74.063074,4.6383891,OpenStreetMap
+CHAP_181,Nona,-74.051819,4.673576,OpenStreetMap
+CHAP_182,Afternoon tea,-74.0476358,4.6758234,OpenStreetMap
+CHAP_183,Le Pain Quotidien,-74.0488779,4.6764245,OpenStreetMap
+CHAP_184,Tostao’,-74.0497645,4.6756197,OpenStreetMap
+CHAP_185,Tostao’,-74.0484096,4.6791636,OpenStreetMap
+CHAP_186,Icaro,-74.0494192,4.6762001,OpenStreetMap
+CHAP_187,Make out,-74.0513503,4.6640154,OpenStreetMap
+CHAP_188,Dolce Stella,-74.0516923,4.6625464,OpenStreetMap
+CHAP_189,Juan Valdéz,-74.0525529,4.6622467,OpenStreetMap
+CHAP_190,La cava 80,-74.0518706,4.6629929,OpenStreetMap
+CHAP_191,Siuka,-74.052304,4.6624539,OpenStreetMap
+CHAP_192,Home Baked,-74.052719,4.6625673,OpenStreetMap
+CHAP_193,Tostao',-74.0539922,4.6533572,OpenStreetMap
+CHAP_194,Distrito Chocolate,-74.0587461,4.6551869,OpenStreetMap
+CHAP_195,Al Agua Patos,-74.0538363,4.6543368,OpenStreetMap
+CHAP_196,Ovejo,-74.0546084,4.6687595,OpenStreetMap
+CHAP_197,Tostao',-74.0558601,4.6684909,OpenStreetMap
+CHAP_198,Tostao',-74.0559551,4.6611862,OpenStreetMap
+CHAP_199,Café sobre ruedas,-74.0516498,4.6673079,OpenStreetMap
+CHAP_200,Tostao’,-74.0598558,4.6558829,OpenStreetMap
+CHAP_201,Guanabana,-74.0671133,4.6284518,OpenStreetMap
+CHAP_202,Starbucks,-74.0573076,4.655873,OpenStreetMap
+CHAP_203,Uganda,-74.0538511,4.6655123,OpenStreetMap
+CHAP_204,IXACACAU,-74.0530319,4.6665984,OpenStreetMap
+CHAP_205,Zero Point TEA,-74.0532062,4.6665637,OpenStreetMap
+CHAP_206,Tostao’,-74.059112,4.6487604,OpenStreetMap
+CHAP_207,Bike nerds,-74.0110488,4.6644034,OpenStreetMap
+CHAP_208,Café Moca,-74.0505049,4.6847492,OpenStreetMap
+CHAP_209,BB Banana Bread,-74.0492674,4.6726088,OpenStreetMap
+CHAP_210,Mesa Salvaje,-74.060715,4.6406849,OpenStreetMap
+CHAP_211,Colo Coffee,-74.0592479,4.6549886,OpenStreetMap
+CHAP_212,Colo Coffee,-74.0545289,4.6679366,OpenStreetMap
+CHAP_213,Tourist Coffee,-74.0540005,4.653698,OpenStreetMap
+CHAP_214,Azahar Cafe,-74.0525622,4.6629202,OpenStreetMap
+CHAP_215,guanabana,-74.0624304,4.6551613,OpenStreetMap
+CHAP_216,Sin Visa,-74.0596508,4.6561773,OpenStreetMap
+CHAP_217,Cafe Voluntad,-74.0652552,4.6424389,OpenStreetMap
+CHAP_218,Caffa,-74.052219,4.6794085,OpenStreetMap
+CHAP_219,Tostao’,-74.0559977,4.665758,OpenStreetMap
+CHAP_220,Tostao’,-74.0639022,4.6496059,OpenStreetMap
+CHAP_221,Le Grand,-74.0479566,4.6732568,OpenStreetMap
+CHAP_222,Tnc Club,-74.0109163,4.6641996,OpenStreetMap
+CHAP_223,Philippe,-74.0541989,4.6662523,OpenStreetMap
+CHAP_224,La Mata,-74.0493198,4.6762955,OpenStreetMap
+CHAP_225,Juan Valdéz Café,-74.0661771,4.6326778,OpenStreetMap
+CHAP_226,Tostao’,-74.049962,4.6729915,OpenStreetMap
+CHAP_227,Juan Valdez Café,-74.0496704,4.6725489,OpenStreetMap
+CHAP_228,Tostao’,-74.0514119,4.6775077,OpenStreetMap
+CHAP_229,El Chócolo,-74.0510563,4.6787232,OpenStreetMap
+CHAP_230,El Chocólo,-74.0488159,4.6830289,OpenStreetMap
+CHAP_231,Juan Valdez Café,-74.0482929,4.6835432,OpenStreetMap
+CHAP_232,Bitcoin café,-74.0560348,4.6546098,OpenStreetMap
+CHAP_233,Cafe La 53,-74.0658843,4.6413294,OpenStreetMap
+CHAP_234,DIOSA Café,-74.06042,4.6396542,OpenStreetMap
+CHAP_235,Tostao’,-74.0630696,4.6396702,OpenStreetMap
+CHAP_236,Foam Party,-74.0607361,4.6614702,OpenStreetMap
+CHAP_237,Casa Café Cultor,-74.0582432,4.6548969,OpenStreetMap
+CHAP_238,Colombiemos,-74.0516037,4.6673855,OpenStreetMap
+CHAP_239,El Chocolo,-74.0563611,4.6688848,OpenStreetMap
+CHAP_240,Bendito,-74.0524256,4.6849478,OpenStreetMap
+CHAP_241,Libertario,-74.0536813,4.6693907,OpenStreetMap
+CHAP_242,San Fermín,-74.0630354,4.6492638,OpenStreetMap
+CHAP_243,Juan Valdez Café,-74.0533298,4.6675699,OpenStreetMap
+CHAP_244,Café OMA,-74.0391419,4.6796944,OpenStreetMap
+CHAP_245,Tostao’,-74.0504281,4.6852323,OpenStreetMap
+CHAP_246,Tostao’,-74.0501782,4.6846542,OpenStreetMap
+CHAP_247,Café Montruo,-74.0569241,4.6705841,OpenStreetMap
+CHAP_248,Kaldivia,-74.0638706,4.6456906,OpenStreetMap
+CHAP_249,Tostao’,-74.0412695,4.6802594,OpenStreetMap
+CHAP_250,Café bar Lele,-74.0530484,4.6652933,OpenStreetMap
+CHAP_251,Colo,-74.0536522,4.6676775,OpenStreetMap
+CHAP_252,Al Alma,-74.0551511,4.6515639,OpenStreetMap
+CHAP_253,BLNCO Café,-74.0591897,4.6487066,OpenStreetMap
+CHAP_254,Nómada,-74.0600315,4.653276,OpenStreetMap
+CHAP_255,Calma,-74.0595868,4.6550563,OpenStreetMap
+CHAP_256,El gato que lee y bebe,-74.0607108,4.6555429,OpenStreetMap
+CHAP_257,San Alberto,-74.0506673,4.6634763,OpenStreetMap
+CHAP_258,Roots Café,-74.0625246,4.6431643,OpenStreetMap
+CHAP_259,T4 Tea For U,-74.0535488,4.6678488,OpenStreetMap
+CHAP_260,Joyce,-74.0538117,4.6746053,OpenStreetMap
+CHAP_261,Lavazza,-74.0521738,4.6599161,OpenStreetMap
+CHAP_262,Pan de Bonus,-74.0465727,4.6768879,OpenStreetMap
+CHAP_263,Juan Valdez Café,-74.0533742,4.6653863,OpenStreetMap
+CHAP_264,Colo Coffee Chapinero,-74.0617845,4.6442957,OpenStreetMap
+CHAP_265,Autóctona Café,-74.0606234,4.6541664,OpenStreetMap
+CHAP_266,Café Quindío iLatina,-74.0601139,4.6546159,OpenStreetMap
+CHAP_267,Café Banna,-74.0604779,4.6536812,OpenStreetMap
+CHAP_268,Oculto Coffee,-74.0577524,4.6562214,OpenStreetMap
+CHAP_269,Café Mundano,-74.0660364,4.6264022,OpenStreetMap
+CHAP_270,Café 18,-74.0459504,4.6804545,OpenStreetMap
+CHAP_271,American cheese cake,-74.0526826,4.6621078,OpenStreetMap
+CHAP_272,Bagatelle,-74.0527763,4.6734491,OpenStreetMap
+CHAP_273,CEFE,-74.0528877,4.6654606,OpenStreetMap
+CHAP_274,Café Quindío Torre 90,-74.0542656,4.6751619,OpenStreetMap
+CHAP_275,Café Rebelión,-74.0560905,4.6650743,OpenStreetMap
+CHAP_276,La Pecera,-74.06476509184218,4.628282953294984,OpenStreetMap
+CHAP_277,Barra Café,-74.06570662036218,4.6288942809735065,OpenStreetMap
+CHAP_278,Oma,-74.06545837306759,4.628835033140104,OpenStreetMap
+CHAP_279,Salon de onces Migue,-74.06743235019907,4.632319907944615,OpenStreetMap
+CHAP_280,Frutería Milenios,-74.06638702026578,4.630980467345932,OpenStreetMap
+CHAP_281,Chelos,-74.06735918900094,4.632293369930493,OpenStreetMap
+CHAP_282,Las delicias del valle,-74.06575374168733,4.634966219894089,OpenStreetMap
+CHAP_283,Musica y café Don toño,-74.06396743828927,4.637886497796107,OpenStreetMap
+CHAP_284,Cafe Bar,-74.06245955542106,4.649929041249943,OpenStreetMap
+CHAP_285,Kiosko Urapanes,-74.06467692806952,4.627457096071318,OpenStreetMap
+CHAP_286,La Conejera,-74.06333479999999,4.628803,OpenStreetMap
+CHAP_287,Tostao',-74.06448196188741,4.646168557750309,OpenStreetMap
+CHAP_288,colo,-74.06181215978903,4.644262448090417,OpenStreetMap
+CHAP_289,Juan Valdez Café,-74.04875777080642,4.678238687863509,OpenStreetMap
+CHAP_290,Mil Delicias,-74.06293849818458,4.646431442046988,OpenStreetMap
+CHAP_291,Tropicália Coffee Co,-74.05070609729128,4.66367999944583,OpenStreetMap
+CHAP_292,Galería Hopulus,-74.05109885123811,4.663755032904673,OpenStreetMap
+CHAP_293,Les Amis,-74.05532725914448,4.671893766887078,OpenStreetMap
+CHAP_294,El Italiano Express,-74.06398414678526,4.630115558371467,OpenStreetMap
+CHAP_295,Coffeestylers,,,Agregado por el grupo
+CHAP_296,The Coffee shop,,,Agregado por el grupo
+CHAP_297,Movida Local,,,Agregado por el grupo
+CHAP_298,Aria Quinta Camacho,,,Agregado por el grupo
+CHAP_299,Xue café,,,Agregado por el grupo
+CHAP_300,Lina Premium Coffee,,,Agregado por el grupo
+CHAP_301,Kafo,,,Agregado por el grupo
+CHAP_302,Cofibinz,,,Agregado por el grupo
+CHAP_303,Mistral Nogal,,,Agregado por el grupo
+CHAP_304,Café Rico,,,Agregado por el grupo
