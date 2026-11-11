@@ -131,7 +131,7 @@ Orden de ejecución:
 - [x] Inventario espacial de cafés (script, CSV, shapefile y mapa)
 - [x] Diseño de la encuesta, plan de análisis y piloto
 - [x] Ficha de observación del ambiente
-- [ ] Trabajo de campo
+- [x] Trabajo de campo
 - [ ] Análisis de datos
 - [ ] Resultados finales
 
