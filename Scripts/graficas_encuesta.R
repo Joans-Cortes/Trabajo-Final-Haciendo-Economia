@@ -245,17 +245,21 @@ guardar(g8, "g08_gasto_vs_indices.png", ancho = 10, alto = 4.8)
 # ====================================================================
 # 9. Motivos de visita (P19–P22) – promedio de lo respondido
 #    OJO: ninguna encuesta suma 10; se lee como importancia percibida (0 a 10),
-#    no como proporción de clientes. Ver sección 8.1 del informe.
+#    no como proporción de clientes. Ver sección 8.1 del informe y el comentario
+#    de la sección 6 de limpieza_encuesta.R. Entre paréntesis se muestra el
+#    promedio ajustado a 100 % (solo como control del orden).
 # ====================================================================
 mot <- tibble(
   etiqueta = c("Reunirse o conversar", "Tomar un café de calidad", "Comprar para llevar", "Trabajar o estudiar"),
-  media = c(mean(datos$p20_reunirse), mean(datos$p21_cafe_calidad), mean(datos$p22_llevar), mean(datos$p19_trabajar))) %>%
+  media = c(mean(datos$p20_reunirse), mean(datos$p21_cafe_calidad), mean(datos$p22_llevar), mean(datos$p19_trabajar)),
+  ajustado = c(mean(datos$motivo_pct_reunirse), mean(datos$motivo_pct_cafe),
+               mean(datos$motivo_pct_llevar), mean(datos$motivo_pct_trabajar))) %>%
   arrange(media) %>% mutate(etiqueta = factor(etiqueta, levels = etiqueta), destaca = media == max(media))
 g9 <- ggplot(mot, aes(media, etiqueta, fill = destaca)) +
   geom_col(width = 0.68) +
-  geom_text(aes(label = coma(media)), hjust = -0.15, size = 4, colour = texto) +
+  geom_text(aes(label = paste0(coma(media), "   (ajustado: ", coma(ajustado, 1), " %)")), hjust = -0.1, size = 3.9, colour = texto) +
   scale_fill_manual(values = c(`TRUE` = azul, `FALSE` = gris), guide = "none") +
-  scale_x_continuous(limits = c(0, 10.8), breaks = NULL, expand = c(0, 0)) +
+  scale_x_continuous(limits = c(0, 13.5), breaks = NULL, expand = c(0, 0)) +
   labs(title = "Reunirse y tomar un café de calidad son los motivos que el personal percibe como más importantes",
        subtitle = "Promedio de lo respondido (0 a 10) en cada motivo de visita",
        x = NULL, y = NULL,

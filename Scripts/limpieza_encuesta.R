@@ -170,10 +170,27 @@ datos <- datos %>%
   )
 
 # 6. Controles ------------------------------------------------------
+# P19-P22 (motivos de visita): la pregunta decía "de cada 10 clientes, ¿cuántos
+# vienen principalmente por cada motivo?", así que las cuatro respuestas debían
+# sumar 10. Microsoft Forms no validaba la suma y el personal las respondió como
+# una escala de 0 a 10 por motivo: ninguna encuesta suma 10 (totales de 24 a 40).
+# No se modifica ningún dato original. Se hace lo siguiente:
+#   - motivos_total y ok_motivos_suma10 marcan el problema (queda en revisiones).
+#   - motivo_pct_* es un AJUSTE de control: cada respuesta se divide entre la suma
+#     de su establecimiento y se expresa en % (suma 100). Supone que el personal
+#     quiso indicar el peso relativo de cada motivo; eso no se puede verificar.
+#   - Resultado principal: promedio de lo respondido (importancia percibida 0-10),
+#     NO proporción de clientes. El ajuste solo sirve como chequeo del orden de los
+#     motivos (ver Output/Datos_Limpios/resumen_motivos.csv e informe, sección 8.1).
+# Proporciones válidas solo se obtendrían volviendo a preguntar a cada local.
 datos <- datos %>%
   mutate(
     motivos_total = p19_trabajar + p20_reunirse + p21_cafe_calidad + p22_llevar,
     ok_motivos_suma10 = motivos_total == 10,
+    motivo_pct_trabajar = 100 * p19_trabajar / motivos_total,
+    motivo_pct_reunirse = 100 * p20_reunirse / motivos_total,
+    motivo_pct_cafe     = 100 * p21_cafe_calidad / motivos_total,
+    motivo_pct_llevar   = 100 * p22_llevar / motivos_total,
     ok_p23_rango = p23_habituales >= 0 & p23_habituales <= 10,
     id_pendiente = id_cafe == "REVISAR"
   )
@@ -255,6 +272,20 @@ glimpse(datos)
 write_csv(datos, "Output/Datos_Limpios/encuesta_limpia.csv")
 write_csv(revisiones, "Output/Datos_Limpios/revisiones_pendientes.csv")
 
+# Resumen de motivos de visita (P19-P22): promedio respondido y promedio ajustado
+resumen_motivos <- tibble(
+  motivo = c("Trabajar o estudiar", "Reunirse o conversar", "Tomar un café de calidad", "Comprar para llevar"),
+  promedio_respondido_0a10 = c(mean(datos$p19_trabajar), mean(datos$p20_reunirse),
+                               mean(datos$p21_cafe_calidad), mean(datos$p22_llevar)),
+  promedio_ajustado_pct = c(mean(datos$motivo_pct_trabajar), mean(datos$motivo_pct_reunirse),
+                            mean(datos$motivo_pct_cafe), mean(datos$motivo_pct_llevar))
+) %>%
+  mutate(posicion = rank(-promedio_respondido_0a10, ties.method = "min"),
+         across(c(promedio_respondido_0a10, promedio_ajustado_pct), ~ round(.x, 2))) %>%
+  arrange(posicion)
+write_csv(resumen_motivos, "Output/Datos_Limpios/resumen_motivos.csv")
+
 cat("\nRegistros en la base limpia:", nrow(datos), "\n")
 cat("Motivos que no suman 10:", sum(!datos$ok_motivos_suma10), "de", nrow(datos), "\n")
+cat("Resumen de motivos (P19-P22) guardado en Output/Datos_Limpios/resumen_motivos.csv\n")
 cat("Revisiones pendientes:", nrow(revisiones), "\n")
