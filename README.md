@@ -130,7 +130,7 @@ Orden de ejecución:
 - [x] Revisión de literatura y marco teórico
 - [x] Inventario espacial de cafés (script, CSV, shapefile y mapa)
 - [x] Diseño de la encuesta, plan de análisis y piloto
-- [x] Ficha de observación del ambiente
+- [ ] Ficha de observación del ambiente (No aplicada. Variable no levantada (ver informe de resultados 1.2))
 - [x] Trabajo de campo
 - [ ] Análisis de datos
 - [ ] Resultados finales
