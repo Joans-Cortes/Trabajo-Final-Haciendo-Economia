@@ -117,11 +117,11 @@ El análisis es descriptivo, con asociaciones exploratorias, porque hay unos 20 
 
 **Lenguaje:** Python
 **Paquetes:** `geopandas`, `matplotlib`, `osmnx`, `pandas`
-**Fecha de descarga de OpenStreetMap:**
+**Link del video:https://youtu.be/7d5O_VEubug**
 
 Orden de ejecución:
 1. `Scripts/Cafeteria.py`: genera el CSV, el shapefile y el mapa. El script guarda los archivos en la carpeta desde la que se ejecuta, así que hay que moverlos a `RawData/` y `Output/Figuras/`.
-2. Scripts de limpieza y análisis de la encuesta: pendientes.
+2. Scripts de limpieza y análisis de la encuesta: "Limpieza_encuesta.R" y "graficas_encuesta.R" junto con "Mapa grafico.R" El cual genera el mapa.
 3. Archivo de las encuestas con variables y el piloto en `RawData/` Como: Respuestas de la encuesta
 
 ## Estado del proyecto
@@ -130,10 +130,9 @@ Orden de ejecución:
 - [x] Revisión de literatura y marco teórico
 - [x] Inventario espacial de cafés (script, CSV, shapefile y mapa)
 - [x] Diseño de la encuesta, plan de análisis y piloto
-- [ ] Ficha de observación del ambiente (No aplicada. Variable no levantada (ver informe de resultados 1.2))
 - [x] Trabajo de campo
-- [ ] Análisis de datos
-- [ ] Resultados finales
+- [x] Análisis de datos
+- [x] Resultados finales
 
 ## Contacto
 
